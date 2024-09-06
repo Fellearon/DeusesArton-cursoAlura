@@ -1,0 +1,64 @@
+h1{
+    text-align: center;
+}
+.centralizado{
+    text-align: center;
+    align-items: center;
+}
+.resultado-pesquisa{
+    text-align: justify;
+    
+}
+h2{
+    text-align: center;
+}
+
+.god{
+    height:auto ;
+    width: 150px;
+    margin: 20px;
+    margin-left: 570px;
+    margin-bottom: 50px;
+    margin-top: auto;
+    border:2px solid black;
+}
+body{
+    background-color: #DDDDDD;
+}
+footer{
+    background-color: aliceblue;
+    width: 1370px;
+    height: 100px;
+    text-align: center;
+    text-align: justify;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ft{
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img{
+    height:auto ;
+    width: 100px;
+    margin: 20px;
+    margin-left: 600px;
+    margin-bottom: auto;
+    margin-top: auto;       
+}
+
+p {
+    text-align: justify;
+    line-height: 1.5;
+}
+.divino{
+   text-align: justify; 
+   line-height: normal;
+   margin: auto;
+   color: blue;
+}
